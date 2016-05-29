@@ -5,10 +5,14 @@ Jeep
 	onboard air
 	small misc maintenance
 	Tachometer
+	Shift plate
+	Twin Stick Shifter
+
 Electronics
 	Clock
 	Microphone?
 	Radio?
+	5V Power Supply
 Fiora?
 	Linux?
 	Torch/neural-style?
