@@ -8,4 +8,4 @@ I don't know what I want the end product to look like as of writing this so it w
 
 Yeah, I need to do a lot of research on how to categorize pages/elements in Bootstrap. The whole "do it right the first time" thing is probably the worst when it comes to coding. Still important but to a point.
 
-Licensed under Apache 2.0 and MIT
+Licensed under Apache 2.0 and MIT (I need to come back to this)
