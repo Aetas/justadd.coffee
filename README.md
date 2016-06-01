@@ -12,5 +12,7 @@ Yeah, I need to do a lot of research on how to categorize pages/elements in Boot
 Convert to multi-page layout. Might actually switch to a different layout in general. Probs a better idea. I'd need to learn Jekyll or Ghost or some such though.  
 Which would be both easier and more boring.
 
+Yeah, I don't think I'm going to do Ghost/etc. No blog-like layout (who needs interaction anyway?) but a portfolio-style post.
+
 ## License
 Licensed under Apache 2.0 and MIT (I need to come back to this)
