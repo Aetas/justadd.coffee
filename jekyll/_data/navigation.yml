@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Jeep
+  url: /jeep/
+  excerpt: "My '84 CJ-7 project car, Old Benjamin."
+  image: # nothing yet
+
+- title: And another one
+  url: /test/
+  excerpt: "Testing things here"
+  image: # still nothing
+
+- title: Home
+  url: justadd.coffee
+  excerpt: "Country Roads"
+  image: # nope
