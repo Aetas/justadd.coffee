@@ -16,5 +16,8 @@ Which would be both easier and more boring.
 
 Yeah, I don't think I'm going to do Ghost/etc. No blog-like layout (who needs interaction anyway?) but a portfolio-style post.
 
+Update:  
+Looks like I might just go with Drupal. It's going to take a bit of reading-up though. I'm itching to do Trusty Rusty Rows as well.
+
 ## License
 Licensed under Apache 2.0 and MIT (I need to come back to this)
