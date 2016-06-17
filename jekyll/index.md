@@ -1,12 +1,13 @@
 ---
 layout: archive
-url: /
 title: "Latest Posts"
 image: JeepSilverton2015.jpg # test
 ---
 # Big Ol' Words Right Here!
 
-``` c++
+![Ain't he purdy!]({{ site.url }}/images/JeepSilverton2015.jpg)
+
+```c++
 // test
 #define YASS 2
 #include<iostream.h>
