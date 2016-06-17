@@ -1,18 +1,18 @@
 # Site navigation links
 
 - title: Jeep
-  url: /jeep/
+  url:
   excerpt: "My '84 CJ-7 project car, Old Benjamin."
   categories: Jeep
   image: # nothing yet
 
 - title: And another one
-  url: /test/
+  url:
   categories: testing
   excerpt: "Testing things here"
   image: # still nothing
 
 - title: Home
-  url: /
+  url: 
   excerpt: "Country Roads"
   image: # nope
