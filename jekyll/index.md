@@ -19,7 +19,7 @@ int main() {
 
 Did it do a thing?  
 It didn't do a thing in the generated html but this...
-{% highlight c++ %}
+{% highlight c++ linenos %}
 #define ATHING 8
 #include<string>
 using std::cout;
