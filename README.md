@@ -10,6 +10,8 @@ Yeah, I need to do a lot of research on how to categorize pages/elements in Boot
 
 So much CSS in every flavor. This was also originally made for one page sites, unlike what I'm doing with it.
 
+I should really deploy a local host to test things on. Maybe I would spend more time playing with it if I didn't have to push things live.
+
 ## Next up:
 Convert to multi-page layout. Might actually switch to a different layout in general. Probs a better idea. I'd need to learn Jekyll or Ghost or some such though.  
 Which would be both easier and more boring.
