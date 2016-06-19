@@ -216,7 +216,7 @@ q {
 }
 @include hyphens(none);
 pre {
-  
+
 }@include text-shadow(none);
 /* - Font weight classes - */
 .black {
@@ -3865,8 +3865,10 @@ a#slide:hover{
     background:#39c492
     }
 
+/* NAV ICON CONTENT */
+
 a#slide:after{
-    content:"F"
+    content:"M"
     }
 
 a#slide.slide:after{
@@ -4013,7 +4015,7 @@ body.slide{
 /*      Responsive      */
 
 @media screen and (max-width:1140px){
-    
+
     #header,
     #posts-container,
     .entry .text,
@@ -4022,7 +4024,7 @@ body.slide{
     .entry .details{
         width:700px
         }
-    
+
     }
 
 @media screen and (max-width:700px){
@@ -4047,9 +4049,9 @@ body.slide{
 
 
 @media screen and (max-width:500px){
-    
+
     a#slide{
-        position:absolute    
+        position:absolute
         }
 
 
