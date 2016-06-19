@@ -70,7 +70,7 @@ paginate:    6
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   none # /:categories/:title.html
+permalink:   none # /:categories/:title.html <-- these should be equivalent
 
 kramdown:
   auto_ids: true
