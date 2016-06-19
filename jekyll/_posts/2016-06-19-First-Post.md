@@ -35,7 +35,8 @@ I did. Now does Rust work?
 fn main() {
     println!("Hello World!");
 }
-```
+```  
+Nope.
 
 ![picture of a gear?](/images/Gears-Header.jpg)
 
