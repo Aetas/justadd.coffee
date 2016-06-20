@@ -4,11 +4,12 @@ permalink: /documentation/
 title: Documentation
 description: "Instructions on how to install and customize the HMFAYSAL OMEGA Theme."
 tags: [Jekyll, theme, install, setup]
-image: 
+image:
   feature: picture-11.jpg
 ---
 
-General notes and suggestions for customizing **HMFAYSAL OMEGA Theme**.
+<h1>A wizard is never late, nor is he early, he arrives precisely when he means to.</h1>  
+-Gandalf on web development.
 
 <section id="table-of-contents" class="toc">
   <header>
@@ -124,7 +125,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -135,7 +136,7 @@ kramdown:
 
 ## Post Front Matter YAML
 
-HMFAYSAL OMEGA uses variable post templates for articles, quotation, video, photo and status updates. 
+HMFAYSAL OMEGA uses variable post templates for articles, quotation, video, photo and status updates.
 
 A new blog post should have the following structure to utilise the themes functions
 
@@ -148,7 +149,7 @@ headline: Some headline				# Will appear in bold letters on top of the post
 modified: YYYY-MM-DD				# Date
 category: personal
 tags: []
-image: 
+image:
   feature: some-image.jpg
 comments: true
 mathjax:
@@ -167,7 +168,7 @@ headline: Some headline       # Will appear in bold letters on top of the post
 modified: YYYY-MM-DD        # Date
 category: personal
 tags: []
-image: 
+image:
   feature: some-image.jpg
 comments: true
 mathjax:
@@ -186,7 +187,7 @@ headline: Some headline       # Will appear in bold letters on top of the post
 modified: YYYY-MM-DD        # Date
 category: personal
 tags: []
-image: 
+image:
   feature: some-image.jpg
 comments: true
 mathjax:
@@ -205,7 +206,7 @@ headline: Some headline       # Will appear in bold letters on top of the post
 modified: YYYY-MM-DD        # Date
 category: personal
 tags: []
-image: 
+image:
   feature: some-image.jpg
 comments: true
 mathjax:
@@ -225,7 +226,7 @@ headline: Some headline       # Will appear in bold letters on top of the post
 modified: YYYY-MM-DD        # Date
 category: personal
 tags: []
-image: 
+image:
   feature: some-image2.jpg
 comments: true
 mathjax:
@@ -379,13 +380,13 @@ For the most part you can leave these as is since the author/owner details are p
 
 ### Adding Posts and Pages
 
-There are two main content layouts: `post.html` (for posts) and `page.html` (for pages). Both have support for large **feature images** that span the full-width of the screen, and both are meant for text heavy blog posts (or articles). 
+There are two main content layouts: `post.html` (for posts) and `page.html` (for pages). Both have support for large **feature images** that span the full-width of the screen, and both are meant for text heavy blog posts (or articles).
 
 #### Feature Images
 
 A good rule of thumb is to keep feature images nice and wide. An image cropped around around 1024 x 768 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at [Picturefill](https://github.com/scottjehl/picturefill) or [Adaptive Images](http://adaptive-images.com/).
 
-The two layouts make the assumption that the feature images live in the *images* folder. To add a feature image to a post or page just include the filename in the front matter like so. 
+The two layouts make the assumption that the feature images live in the *images* folder. To add a feature image to a post or page just include the filename in the front matter like so.
 
 {% highlight yaml %}
 image:
