@@ -1,3 +1,4 @@
 Future_pics/Projects/pics*
 Future_pics/Misc/*
 jekyll/_site/*
+jekyll/Gemfile.lock
