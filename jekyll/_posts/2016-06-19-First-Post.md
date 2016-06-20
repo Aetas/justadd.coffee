@@ -3,7 +3,7 @@ layout: post
 title: "Just Making a Sample Post"
 description: "My first post! I'll probably throw Old Ben in."
 category: Jeep
-tags: [jeep, readability]
+tags: [jeep, musings, general]
 modified: #2016-06-19 <-- update if modified
 
 imagefeature: JeepSilverton2015.jpg
