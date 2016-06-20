@@ -1,29 +1,19 @@
 ---
 layout: post
-title: "Why Jekyll?"
-description: "I'm just putting in filler for the mo-mo"
-category: Ruminate
-tags: [coffee, general, musing]
-modified: #2016-06-19 <-- update if modified
+# type: photo # uses imagefeature as small image
+title: "Making an Onboard Air Supply from a York210 Air Compressor"
+description: "Compressed air is a spectacular thing to have."
+category: Jeep
+tags: [jeep, install, project, onboard air, air compressor, york 210]
+modified: 2016-06-20 # <-- update if modified
 
-imagefeature: # will this work with nothing?
+imagefeature: JeepSilverton2015.jpg
 comments: false
 share: true
-published: false
+published: true
 ---
 
-Brews!
-
- - espresso
- - Boxcar
- - George of the jungle
- - Pesado 58.5 skateboard deck tamper
- - scale?
-
-Include beer? Probs not worth two posts. I mean, honestly. How on earth would I fill **two** posts on coffee and beer?  
-Actually that wouldn't be too hard.
-
-Maybe I should just add a section to random posts about excellent beer/coffee/food from the week. Could work. I live in Boulder after all, everyone already thinks I'm a filthy hipster like enjoying good food is a fucking crime. Go eat your McDonalds.
+Sooooooo damn louuuuud.
 
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 

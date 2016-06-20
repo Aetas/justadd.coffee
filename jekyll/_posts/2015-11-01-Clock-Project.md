@@ -1,20 +1,18 @@
 ---
 layout: post
-type: photo
-title: "Old Benjamin"
-description: "Introducing Old Ben"
-category: Jeep
-tags: [jeep, readability]
-modified: #2016-06-19 <-- update if modified
+title: "So I Built a Clock."
+description: "Digital 8-Seg LED Clock"
+category: Electronics
+tags: [electronics, project, clock, circuit]
+modified: 2016-06-20 # <-- update if modified
 
-imagefeature: JeepSilverton2015.jpg
+imagefeature: # will this work with nothing?
 comments: false
 share: true
+published: true
 ---
 
-# Introducing Old Ben
-
-Ben is bae.
+No, not like that clock kid who didn't actually do anything.
 
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 
