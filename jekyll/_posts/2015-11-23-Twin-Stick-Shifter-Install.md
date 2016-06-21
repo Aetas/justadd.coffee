@@ -7,7 +7,7 @@ category: Jeep
 tags: [jeep, install, project]
 modified: 2016-06-20 # <-- update if modified
 
-imagefeature: JeepSilverton2015.jpg
+imagefeature: jeep/JeepSilverton2015.jpg
 comments: false
 share: true
 published: true

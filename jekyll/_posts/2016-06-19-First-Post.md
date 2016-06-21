@@ -6,7 +6,7 @@ category: Ruminate
 tags: [musings, general, jeep]
 modified: #2016-06-19 <-- update if modified
 
-imagefeature: JeepSilverton2015.jpg
+imagefeature: jeep/JeepSilverton2015.jpg
 comments: false
 share: true
 published: true

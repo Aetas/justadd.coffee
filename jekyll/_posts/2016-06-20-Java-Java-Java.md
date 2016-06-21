@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why Jekyll?"
-description: "I'm just putting in filler for the mo-mo"
+title: "A Storm's Brewin'"
+description: "Don't mind me."
 category: Ruminate
 tags: [coffee, general, musing]
 modified: #2016-06-19 <-- update if modified
@@ -9,7 +9,7 @@ modified: #2016-06-19 <-- update if modified
 imagefeature: # will this work with nothing?
 comments: false
 share: true
-published: false
+published: true
 ---
 
 Brews!

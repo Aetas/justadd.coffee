@@ -7,7 +7,7 @@ category: Jeep
 tags: [jeep, install, project, onboard air, air compressor, york 210]
 modified: 2016-06-20 # <-- update if modified
 
-imagefeature: JeepSilverton2015.jpg
+imagefeature: jeep/JeepSilverton2015.jpg
 comments: false
 share: true
 published: true
