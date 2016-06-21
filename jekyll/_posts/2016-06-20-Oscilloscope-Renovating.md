@@ -24,6 +24,10 @@ The funny thing is that they don't even really have different prices. I mean, th
 
 Have I put enough filler? Probs.
 
+Use DSER option, not DSFR option. DSFR is the same but supports 500 uV/div, which the 1054's hardware doesn't support.
+
+Sneaky sons a bitches actually include 36 hours of trial time of the upgraded software to make the product look better than it is. Realistically, you won't be able to send it back in time after 36 hours of using it.
+
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 
 Ad quis animal constituto sit, vel utamur delicatissimi conclusionemque no. Copiosae vituperatoribus mel id. Idque mazim duo an, nec purto brute fugit ei. Id nec vide postea quaestio.
