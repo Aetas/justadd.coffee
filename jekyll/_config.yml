@@ -24,7 +24,7 @@ fin_color:        "255,255,255"
 owner:
   name:           Derek Prince
   avatar:         derek-prince.jpg
-  email:          # holler@justadd.coffee # <- set this up. # hmfaysal@alum.mit.edu
+  email:          # holler@justadd.coffee # <- set this up.
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    I'm just a boy who likes to make things.
   # Social networking links used in footer. Update and remove as you like.
