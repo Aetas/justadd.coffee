@@ -4,6 +4,5 @@ gem 'github-pages', group: :jekyll_plugins do
   gem 'kramdown'
   gem 'pygments.rb'
   gem 'rake'  # I should probably add this here.
-  gem 'octopress-video-tag'
   # gem 'wdm', '>= 0.10' if Gem.win_platform?
 end
