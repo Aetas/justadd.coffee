@@ -18,6 +18,10 @@ I should really deploy a local host to test things on. Maybe I would spend more 
 One thing that would benefit me greatly would be adding a tag to display featured thumbnail images above posts.  
 Unlike the type: photo tag, I would be able to set it separate from the featured/bg image. Many preview images would look like shit as a background/wrapper. I'll have to figure out how to do that. Still, shouldn't be hard. Maybe after I've gotten some things up and I don't feel like I'm hosting someone else's work.
 
+I found that damn description font! It's under the .cursive style.css. It's called \'Sacramento\' in case you're wondering what you should avoid.
+
+# {% video {{ site.url }}/images/PositivelyPouringKittenswebm.webm %}
+
 ## Next up:
 Convert to multi-page layout. Might actually switch to a different layout in general. Probs a better idea. I'd need to learn Jekyll or Ghost or some such though.  
 Which would be both easier and more boring.
