@@ -5,7 +5,7 @@ title: "Just Trying This Out"
 description: I doubt I'll ever actually make one of these posts.
 headline:
 category: Ruminate
-tags: [test, quotation]
+tags: [test, quotation, jeff kaplan]
 imagefeature:
 comments: false
 mathjax:
