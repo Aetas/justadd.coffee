@@ -28,12 +28,28 @@ Moved to it's own section.
 
 I might consider doing an index page for each broad category that just links the categories page. Maybe a redirect to categories...
 
-Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
+## Java
+Atom likes to try to autocomplete \'Java\' into \'javascript\' as if I would let such an abomination happen.
 
-Ad quis animal constituto sit, vel utamur delicatissimi conclusionemque no. Copiosae vituperatoribus mel id. Idque mazim duo an, nec purto brute fugit ei. Id nec vide postea quaestio.
+### Boxcar Coffee Roasters - Stella Espresso Blend
 
-Ipsum dicat deseruisse ex pri, ex his dicit consequat. Mea impedit tacimates petentium ea. No pericula expetenda expetendis sed, errem tempor inciderint pro no, te vis feugait delectus. Eam ipsum idque oratio ex. Nonumy vocent omittantur sea et, vix at aperiri fuisset rationibus. Eam agam possim pertinax in, ius dicant adipisci ne.
+### Boxcar Coffee Roasters - Whiskeygrin
+MY LOVE
 
-Exerci possit id sed, modus cotidieque in qui. Ferri sapientem mnesarchum cu has, at his suscipit pertinacia, tation philosophia consequuntur ea usu. Soleat labores id eam, mea harum vocent patrioque ad. Cu nec indoctum sapientem, doming detraxit dissentiunt ei duo. No vis quod electram. Cu eos eius dolor mollis, sed eros mucius concludaturque at.
+### Pinon Coffee
+I don't think I'd actually recommend this to most people but it has a special place in my heart for getting me through that tough-love phase of drinking coffee. You know, like the beautiful first moments of a relationship. Except you hated it. Yeah, me and coffee have come a long way.
 
-Eum forensibus deseruisse ea, mel an aliquid ocurreret molestiae. Minim ridens nec ad. In dico eripuit mentitum sed, mel doctus commune insolens id. Verear vituperatoribus vel cu, pro ex nominavi platonem. Natum inciderint mei at, latine ponderum facilisi ea vel. Has adhuc evertitur ea, facer convenire salutatus et has, ne persius offendit singulis vim. Oportere voluptaria intellegebat id vix, cu legendos platonem efficiantur mel.
+## Brews
+
+### Port Brewing - Hop-15
+Now - as with most beers past your first - I don't entirely trust my opinion of this beer.  
+Moving on, when I had this beer I didn't even know beers could taste like that. This was also almost two years ago so I can hardly remember all the over-the-top adjectives I could stuff in here to describe it. It's seasonal and short-lived so I have yet to find it again. It's also only sold in bombers... Reminded me of a LaCumbre Elevated. A bit stronger and more conservatively balanced.
+
+### Stone Brewing - Xocoveza
+If you ever run into a particular set of my friends, they'll regale you the story of how I collectively lost my shit when I stumbled on this beer in the wild in the middle of June.
+
+## Whiskey
+The debate over the correct spelling of whisky/whiskey should have died when people discovered *whiskey* is *key* to a good drink.
+
+### High West Whiskey - Double Rye
+What I'm currently mulling over (as of 2016-06-24) simply because I could not bring myself to buy the better sibling, Rendevous Rye. Which was absolutely spectacular. I also drank quite a bit of it with my father over ~17 days on a river trip on the Grand.
