@@ -49,7 +49,7 @@ Moving on, when I had this beer I didn't even know beers could taste like that. 
 If you ever run into a particular set of my friends, they'll regale you the story of how I collectively lost my shit when I stumbled on this beer in the wild in the middle of June.
 
 ## Whiskey
-The debate over the correct spelling of whisky/whiskey should have died when people discovered *whiskey* is *key* to a good drink.
+The debate over the correct spelling of whisky/whiskey should have died when people discovered the *key* to a good drink is whis*key*.
 
 ### High West Whiskey - Double Rye
 What I'm currently mulling over (as of 2016-06-24) simply because I could not bring myself to buy the better sibling, Rendevous Rye. Which was absolutely spectacular. I also drank quite a bit of it with my father over ~17 days on a river trip on the Grand.
