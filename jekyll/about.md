@@ -23,6 +23,10 @@ Hell, I just got it up and running today.
 
 Name's Derek. Electrical & Computer Engineering Student at CU Boulder.
 
+I rather enjoy [brews](../brews/index.html) and occasionally [books](../books/index.html) when I find the time.
+
+^ test this linking.
+
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 
 Ad quis animal constituto sit, vel utamur delicatissimi conclusionemque no. Copiosae vituperatoribus mel id. Idque mazim duo an, nec purto brute fugit ei. Id nec vide postea quaestio.
