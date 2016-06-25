@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "A Storm's Brewin'"
 description: "Don't mind me."
 tags: [coffee, beer, whiskey, musing]
