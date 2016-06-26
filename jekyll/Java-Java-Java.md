@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A Storm's Brewin'"
+title: "A Storm's a Brewin'"
 description: "Don't mind me."
 tags: [coffee, beer, whiskey, musing]
 modified: #2016-06-19 <-- update if modified
@@ -44,6 +44,12 @@ Moving on, when I had this beer I didn't even know beers could taste like that. 
 
 ### Stone Brewing - Xocoveza
 If you ever run into a particular set of my friends, they'll regale you the story of how I collectively lost my shit when I stumbled on this beer in the wild in the middle of June.
+
+### LaCumbre Brewing - Elevated
+Special mentions; project dank, red ryot.
+
+### Marble Brewing - Marble Red
+The perfect beer. Oh wait, it gives insane hangovers from a whiff.
 
 ## Whiskey
 The debate over the correct spelling of whisky/whiskey should have died when people discovered the *key* to a good drink is whis*key*.
