@@ -15,12 +15,12 @@ IDK, man.
   <figcaption>Placeholder. Probs found on /r/awww or /r/eyebleach</figcaption>
 </figure>
 
-Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
+Some time around 2013 I decided to make a website largely as a free resume boost and self-advertisement combo. Naturally, that is a terrible reason to take on any endeavor and I didn't have the desire to commit the time and resources to the project. So the project floundered for two years as I went through various \'Coming Soon\' splash screens on an even greater variety of domains while I tried to invent some semblance of creativity.
+Come 2015, I had largely forgotten about the project as University work settled in and demanded more time. I was also doing a lot of analog and digital work so I had large programming droughts while I was blissfully making clocks and radios.  
+Enter 2016. Finals are over and I have time again! Great! Then something completely mundane happens. I grew bored. I drank a lot of coffee. There's nothing special about that, I drink a lot of coffee regardless. I just wanted to bring your attention to the domain name (in case you missed it. I'm here for you). Yup, the. Yeah, who cares.
 
-Ad quis animal constituto sit, vel utamur delicatissimi conclusionemque no. Copiosae vituperatoribus mel id. Idque mazim duo an, nec purto brute fugit ei. Id nec vide postea quaestio.
+I was drinking a lot of coffee working on projects. And drinking a lot of coffee not working on projects. Remember, consistency. Anyhow, I'd talk to my mother or some friends in other engineering disciplines (namely chemical and mechanical) and they'd always be surprised about the things I was doing as if they were magic. What I do (as of this writing) is exceedingly simple and I always assure them that they could do it with ease after the first hurdle. That's when I decided to make a fun engineering project-blog-like disaster called justadd.coffee. It's like just add water but better in every way.
 
-Ipsum dicat deseruisse ex pri, ex his dicit consequat. Mea impedit tacimates petentium ea. No pericula expetenda expetendis sed, errem tempor inciderint pro no, te vis feugait delectus. Eam ipsum idque oratio ex. Nonumy vocent omittantur sea et, vix at aperiri fuisset rationibus. Eam agam possim pertinax in, ius dicant adipisci ne.
+Man I can't wait to delete half of this shit and leave something good behind. Try as I might, I'll never be able to write in an uninterrupted, linear, and cohesive manner first go. That's why I just write and delete the old garb'.
 
-Exerci possit id sed, modus cotidieque in qui. Ferri sapientem mnesarchum cu has, at his suscipit pertinacia, tation philosophia consequuntur ea usu. Soleat labores id eam, mea harum vocent patrioque ad. Cu nec indoctum sapientem, doming detraxit dissentiunt ei duo. No vis quod electram. Cu eos eius dolor mollis, sed eros mucius concludaturque at.
-
-Eum forensibus deseruisse ea, mel an aliquid ocurreret molestiae. Minim ridens nec ad. In dico eripuit mentitum sed, mel doctus commune insolens id. Verear vituperatoribus vel cu, pro ex nominavi platonem. Natum inciderint mei at, latine ponderum facilisi ea vel. Has adhuc evertitur ea, facer convenire salutatus et has, ne persius offendit singulis vim. Oportere voluptaria intellegebat id vix, cu legendos platonem efficiantur mel.
+I'll get back to this when I'm not as tired. For now, coffee.
