@@ -11,22 +11,19 @@ share: true
 published: true
 ---
 
-Brews!
+# Welcome to my humble abode
 
- - espresso
- - Boxcar
- - George of the jungle
- - Pesado 58.5 skateboard deck tamper
- - scale?
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3 >Contents</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-Include beer? Probs not worth two posts. I mean, honestly. How on earth would I fill **two** posts on coffee and beer?  
-Actually that wouldn't be too hard.
-
-Maybe I should just add a section to random posts about excellent beer/coffee/food from the week. Could work. I live in Boulder after all, everyone already thinks I'm a filthy hipster like enjoying good food is a fucking crime. Go eat your McDonalds.
-
-Moved to it's own section.
-
-I might consider doing an index page for each broad category that just links the categories page. Maybe a redirect to categories...
+<!-- trying auto tables -->
 
 ## Java
 Atom likes to try to autocomplete \'Java\' into \'javascript\' as if I would let such an abomination happen.
