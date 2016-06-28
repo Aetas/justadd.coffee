@@ -3,7 +3,12 @@ I should probably keep track of these things somewhere...
 ## Misc
 - Remove Sacramento font.
   - (Replace with something less horrendous.)
-- Possibly make a redirect for /:category/index.html -> /categories/index.html or tags. Or whatever. 
+- Possibly make a redirect for /:category/index.html -> /categories/index.html or tags. Or whatever.
+- Header images
+- webm gifs of projects
+  - Liquid video function Maybe
+  - Also, ffmpeg quick program
+    - LUA?
 
 ## Pages
 (All of them)
