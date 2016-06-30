@@ -29,4 +29,5 @@ This page won't have a link anywhere on the site unless I explicitly link it in 
 
 Maybe I should do the same for gramps.
 
-I kinda like the idea of having a bunch of unlinked pages that can only be chanced upon.
+I kinda like the idea of having a bunch of unlinked pages that can only be chanced upon.  
+Maybe I should add a music section.
