@@ -28,6 +28,8 @@ Pictures!
   <figcaption>A bunch o' images</figcaption>
 </figure>
 
+This is the only horizontal image I have so it doesn't paly well with others. Why on earth do I only have vertical images? Hell if I know.
+
 <figure>
   <img src="/images/jeep/hand-throttle/IMAG0359.jpg">
   <figcaption>A view of the underside of the shifter plate</figcaption>
