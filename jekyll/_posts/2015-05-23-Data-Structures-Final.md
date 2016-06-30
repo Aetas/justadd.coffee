@@ -2,7 +2,7 @@
 layout: post
 title: "My 14ers Hash-Map"
 description: "The program that taught me to rue the name Dijkstra"
-category: Prorgamming
+category: Programming
 tags: [programming, hash tables, graphs, c++]
 modified: #2016-06-19 <-- update if modified
 
