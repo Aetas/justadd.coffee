@@ -9,6 +9,7 @@ I should probably keep track of these things somewhere...
   - Liquid video function Maybe
   - Also, ffmpeg quick program
     - LUA?
+- So it turns out that the icon I'm using is a Seattle Coffee Gear icon. I don't know how I didn't notice that before. I should probs change that.
 
 ## Pages
 (All of them)
