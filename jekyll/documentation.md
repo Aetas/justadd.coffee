@@ -11,6 +11,8 @@ image:
 <h1>A wizard is never late, nor is he early, he arrives precisely when he means to.</h1>  
 -Gandalf on web development.
 
+___
+
 <section id="table-of-contents" class="toc">
   <header>
     <h3 >Contents</h3>
