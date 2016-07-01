@@ -11,7 +11,7 @@ image:
   <figcaption>Derek Prince</figcaption>
 </figure>
 
-This page should be aboot me, 'Who dis?' should link to an 'about this page.' Maybe? They're pretty much the same thing.
+This page should be aboot me, 'Who dis?' should link to an 'about this website.' Maybe? They're pretty much the same thing.
 
 # I should probably put things here  
 Like right here.
