@@ -19,7 +19,7 @@ Finish:
 - about.md
 - documentation.md
   - Should I even have this? I'm not making a theme. Could just link to git. I like the book icon.
-- just-add-coffee.md
+- ~~just-add-coffee.md~~ (depreciated)
 - java-java-java.md
 - books.md
 - Old-Ben.md
