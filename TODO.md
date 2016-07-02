@@ -10,6 +10,7 @@ I should probably keep track of these things somewhere...
   - Also, ffmpeg quick program
     - LUA?
 - So it turns out that the icon I'm using is a Seattle Coffee Gear icon. I don't know how I didn't notice that before. I should probs change that.
+- Make page redirects for category bases to categories page.
 
 ## Pages
 (All of them)
