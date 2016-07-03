@@ -27,10 +27,15 @@ Finish:
 - Data-Structures-Final.md
 - Shift-Plate-Install.md
 - Hand-Throttle.md
+  - Take pictures
+  - collar
 - Power-Brake.md
 - 5V-Power-Supply.md
+  - Take Pictures
 - Clock-Project.md
+  - Take Pictures/webm
 - Twin-Stick-Shifter.md
+  - Pictures
 - Onboard-Compressed-Air.md
 - Oscilloscope-Renovating.md
 - Why-Jekyll.md
@@ -38,3 +43,5 @@ Finish:
 - Playing-With-Neural-Style.md
   - Actually do this.
 - Arduino-Tachometer.md
+  - Will need lots of pictures.
+  - get LCD
