@@ -5,6 +5,7 @@ title: Just Add Coffee
 tags: [Derek, Prince, coffee]
 image:
   feature: derek-prince.jpg # update this pronto
+published: false # I'm just assuming this works with simple page layouts
 ---
 # Site description?
 
