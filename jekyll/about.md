@@ -11,7 +11,8 @@ image:
   <figcaption>Derek Prince</figcaption>
 </figure>
 
-This page should be aboot me, 'Who dis?' should link to an 'about this website.' Maybe? They're pretty much the same thing.
+This page should be aboot me, 'Who dis?' should link to an 'about this website.' Maybe? They're pretty much the same thing.  
+Which is why I ended up deleting that page.
 
 # I should probably put things here  
 Like right here.
@@ -23,11 +24,8 @@ Hell, I just got it up and running today.
 
 Name's Derek. Electrical & Computer Engineering Student at CU Boulder.
 
-I rather enjoy [brews](../brews/index.html) and occasionally [books](../books/index.html) when I find the time.
+Among other things, I rather enjoy music, [brews](../brews/index.html), and occasionally [books](../books/index.html) when I find the time.
 
-^ test this linking.
-
-It worked! Yay.
 
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 
