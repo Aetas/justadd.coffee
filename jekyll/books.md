@@ -19,6 +19,7 @@ Put books here? (Running list, maybe comment on recent ones as I finish them)
 * Michael Crichton (Sphere, Alaska)
 * China Miéville
 * Boys in the Boat
+  - This shit was great
 * Water for Elephantes
 * Ancillary Justice
 * The Martian
