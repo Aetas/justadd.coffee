@@ -13,7 +13,7 @@ share: true
 published: true
 ---
 
-Sooooooo damn louuuuud.
+A short stint.
 
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 
