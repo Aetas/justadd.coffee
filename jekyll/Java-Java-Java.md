@@ -29,6 +29,7 @@ published: true
 Atom likes to try to autocomplete \'Java\' into \'javascript\' as if I would let such an abomination happen.
 
 ### Boxcar Coffee Roasters - Stella Espresso Blend
+The classic.
 
 ### Boxcar Coffee Roasters - Whiskeygrin
 MY LOVE
