@@ -35,4 +35,7 @@ After that beat the motivation out of me (mind you, I did make one. It was just 
 
 search for a blog-like platform that isn't a blog. Bootsrapt themes -> drupal -> jekyll
 
-Day[9] about just fucking doing it. Maybe a full Ruminate post. Don't make more posts without finishing the previous ones, Derek.
+Day[9] about just fucking doing it. Maybe a full Ruminate post.
+
+Don't make more posts without finishing the previous ones, Derek.  
+^ Too late.
