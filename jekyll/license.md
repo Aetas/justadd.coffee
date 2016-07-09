@@ -4,7 +4,7 @@ permalink: /license/index.html
 title: LICENSE
 description: "License for Jekyll theme justadd.coffee."
 headline: "The MIT License"
-tags: [Jekyll, theme, license]
+tags: [license]
 image:
   feature:
 ---
