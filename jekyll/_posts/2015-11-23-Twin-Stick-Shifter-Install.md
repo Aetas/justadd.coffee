@@ -18,6 +18,8 @@ The Dana 300 shifts like a tractor. Now it's a bit more qwoperative.
 \< Adding pictures \>
 Just kidding, they aren't in the jeep folder yet.
 
+I took a bunch of pictures. But because my lens is ~10 years older than my camera and I was autofocusing, they are a bit blurry... Should probs go again tomorrow.
+
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 
 Ad quis animal constituto sit, vel utamur delicatissimi conclusionemque no. Copiosae vituperatoribus mel id. Idque mazim duo an, nec purto brute fugit ei. Id nec vide postea quaestio.
