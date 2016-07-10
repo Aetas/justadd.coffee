@@ -24,11 +24,13 @@ Finish:
 - java-java-java.md
 - books.md
 - Old-Ben.md
+  - ~~first pass~~
+  - Second pass
 - Data-Structures-Final.md
 - Shift-Plate-Install.md
 - Hand-Throttle.md
   - Take pictures
-  - collar
+  - ~~collar~~
 - Power-Brake.md
 - 5V-Power-Supply.md
   - Take Pictures
