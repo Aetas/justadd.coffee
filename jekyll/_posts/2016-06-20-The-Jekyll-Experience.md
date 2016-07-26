@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Experience With Jekyll"
-description: "I'm just putting in filler for the mo-mo"
+title: "The Jekyll Experience"
+description: "My time with Jekyll insofar"
 category: Ruminate
 tags: [website, web development, programming, general, musing]
 modified: #2016-06-19 <-- update if modified
