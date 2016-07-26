@@ -9,7 +9,7 @@ modified: #2016-06-19 <-- update if modified
 imagefeature: # will this work with nothing?
 comments: false
 share: true
-published: true
+published: false
 ---
 
 # It's funny...

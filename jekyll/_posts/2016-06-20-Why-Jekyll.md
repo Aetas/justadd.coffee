@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Jekyll?"
+title: "Experience With Jekyll"
 description: "I'm just putting in filler for the mo-mo"
 category: Ruminate
 tags: [website, web development, programming, general, musing]
@@ -25,7 +25,7 @@ Things to mention...
 
 # Ready Player One
 
-As with most language/framework choices, when choosing one for the first time I moved between at least 5 frameworks before landing on Jekyll. And boy-o-boy am I happy that I did.
+As with most language/framework choices, when choosing one for the first time I moved between at least 5 frameworks before landing on Jekyll. What a choice. What good are those other unwieldy garbage heaps good for? Just kidding, Jekyll was probably not that great pre-html5. As in, it needed all the plugins in the world to be fully functional. Though our expectrations for web pages have also grown with the new HTML standards...
 
 Where to begin...
 
