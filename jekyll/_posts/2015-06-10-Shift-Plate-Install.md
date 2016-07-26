@@ -15,6 +15,8 @@ published: true
 
 A short stint.
 
+I should get pictures of this when I get the twin stick pictures. And the hand throttle.
+
 Lorem ipsum dolor sit amet, cu etiam putent aperiam pro, usu utroque volutpat at. Quo utinam dicunt propriae an. Quo legere detracto cu. Ferri patrioque conceptam in has, sit ea purto cibo.
 
 Ad quis animal constituto sit, vel utamur delicatissimi conclusionemque no. Copiosae vituperatoribus mel id. Idque mazim duo an, nec purto brute fugit ei. Id nec vide postea quaestio.
