@@ -14,6 +14,8 @@ published: false
 
 # It's funny...
 
+I don't know if I'm actually going to keep this post. I just kinda put in a number and said cool.
+
 I call it renovating but it was brand new when I did the renovations.  
 What I mean is that Rigol did something brilliant and rather offensive to every electronics geek that has ever heard of it.
 
