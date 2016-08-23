@@ -47,3 +47,8 @@ Finish:
 - Arduino-Tachometer.md
   - Will need lots of pictures.
   - get LCD
+
+Idea:
+- In defense of writing software to solve your homework
+  - You learn this shit by doing it anyhow.
+    - What was that terrible movie about learning how to take the SAT by trying to cheat on it? That.
