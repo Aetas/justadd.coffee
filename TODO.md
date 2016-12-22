@@ -47,6 +47,26 @@ Finish:
 - Arduino-Tachometer.md
   - Will need lots of pictures.
   - get LCD
+- Darla, EDL robot
+  - spice
+  - arduino
+- Quadcopter
+  - remote
+  - receiver
+  - Eagle PCB
+  - motor driver
+- House remote
+  - cPLD choice
+  - arduino version
+  - logic sniffin'
+  - Rx/Tx pair
+- Aforementioned logic sniffer
+  - water-tight coffee machine.
+  - dev board (20 pins or some madness)
+- LFSR-PRNG Guessing Game
+  - Cyclone 3
+- 2n-bit comparator
+  - Also Cyclone 3
 
 Idea:
 - In defense of writing software to solve your homework
