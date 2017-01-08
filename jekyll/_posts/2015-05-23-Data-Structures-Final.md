@@ -18,6 +18,6 @@ I rather enjoyed making it, though as with most things I wanted to go overboard 
 
 I still did it, I just couldn't use templated classes to nest hash tables within each other. Which would have been awesome.
 
-this and that. I did a thing. I have only a little intention to go back and update it.
+this and that. I did a thing. I have only little motivation to go back and update it.
 
 I'm still mildly salty nobody tried to contribute to it after I spent so much time on documentation and Makefiles for whatever compilers their little hearts desired.
