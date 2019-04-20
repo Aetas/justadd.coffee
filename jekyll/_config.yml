@@ -1,7 +1,7 @@
 # Site
 title: Just Add Coffee
 description: Smol Website Folio
-url: http://127.0.0.1:4000 #
+url: http://justadd.coffee #
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -58,7 +58,7 @@ github:             DTPrince
 #behance:           username
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
