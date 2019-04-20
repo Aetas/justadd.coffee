@@ -18,7 +18,7 @@ tag:
 published: true
 ---
 ## Sensor Boards for Senior Design
-For my senior design project]({{ site.url }}{% post_url 2017-10-01-Senior-Design %}) we had to make an automated proof-of-concept airlock for Lockheed Martin for them to use in their Lunar Orbital Platform Gateway habitat mockup. While I won't delve into the project here, I will go over the sensor boards I designed to assist in automating the airlock.
+For my senior [design project]({{ site.url }}{% post_url  2017-10-01-Senior-Design %}) we had to make an automated proof-of-concept airlock for Lockheed Martin for them to use in their Lunar Orbital Platform Gateway habitat mockup. While I won't delve into the project here, I will go over the sensor boards I designed to assist in automating the airlock.
 
 ## Hall-Effect Sensor
 There were 5 hall-effect sensors in the airlock for position sensing -- 1 for each of the two doors and 3 used in the sliding rail system that the ferries the payload plate to either side.
