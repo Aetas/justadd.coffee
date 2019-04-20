@@ -1,74 +1,35 @@
-I should probably keep track of these things somewhere...
 
-## Misc
-- Remove Sacramento font.
-  - (Replace with something less horrendous.)
-- Possibly make a redirect for /:category/index.html -> /categories/index.html or tags. Or whatever.
-- Header images
-- webm gifs of projects
-  - Liquid video function Maybe
-  - Also, ffmpeg quick program
-    - LUA?
-- So it turns out that the icon I'm using is a Seattle Coffee Gear icon. I don't know how I didn't notice that before. I should probs change that.
-- Make page redirects for category bases to categories page.
-- Set up email addresses for site
+# TODO
 
-## Pages
-(All of them)
+### Site basics
 
-Finish:  
-- about.md
-- documentation.md
-  - Should I even have this? I'm not making a theme. Could just link to git. I like the book icon.
-- ~~just-add-coffee.md~~ (depreciated)
-- java-java-java.md
-- books.md
-- Old-Ben.md
-  - ~~first pass~~
-  - Second pass
-- Data-Structures-Final.md
-- Shift-Plate-Install.md
-- Hand-Throttle.md
-  - Take pictures
-  - ~~collar~~
-- Power-Brake.md
-- 5V-Power-Supply.md
-  - Take Pictures
-- Clock-Project.md
-  - Take Pictures/webm
-- Twin-Stick-Shifter.md
-  - Pictures
-- Onboard-Compressed-Air.md
-- Oscilloscope-Renovating.md
-- Why-Jekyll.md
-- Jeff-Kaplan-On-Anything.md
-- Playing-With-Neural-Style.md
-  - Actually do this.
-- Arduino-Tachometer.md
-  - Will need lots of pictures.
-  - get LCD
-- Darla, EDL robot
-  - spice
-  - arduino
-- Quadcopter
-  - remote
-  - receiver
-  - Eagle PCB
-  - motor driver
-- House remote
-  - cPLD choice
-  - arduino version
-  - logic sniffin'
-  - Rx/Tx pair
-- Aforementioned logic sniffer
-  - water-tight coffee machine.
-  - dev board (20 pins or some madness)
-- LFSR-PRNG Guessing Game
-  - Cyclone 3
-- 2n-bit comparator
-  - Also Cyclone 3
+- Default Pictures
+  - Also a projects default?
+- Maybe have to recolor everything
+- Fix that damn projects.yaml file. Why on earth was it written like that
 
-Idea:
-- In defense of writing software to solve your homework
-  - You learn this shit by doing it anyhow.
-    - What was that terrible movie about learning how to take the SAT by trying to cheat on it? That.
+### Posts
+
+- Senior Design MCU board
+- Senior Design Conversion board
+- Senior Design Stepper Socket board
+- 5Vdc PSU (v brief)
+- Hall-effect board / Pressure sensor Board
+- Ground Bounce example Board
+- Binary counter replacement chip
+- FPGA guessing game
+- Breakout Board
+- SRIRACHA
+- FPGA Class stuff
+- High Speed DD class stuff.
+- Serpentine surfers?
+
+### JS script
+
+Decide on js script (if even using)
+https://vincentgarreau.com/particles.js/
+https://codepen.io/plasm/pen/zwjMPy
+
+### "Branding"
+
+My boy Antonio.

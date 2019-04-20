@@ -1,202 +1,68 @@
-title:            Just Add Coffee
-description:      "It's that easy."
-logo:             stencil-tamper-portafilter-icon.png # update this
-disqus_shortname:
-# Assign a default image for your site's header and footer
-default_bg:       default_bg1.jpg
-search:           true
-share:            true
-# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
-readtime:         true
-# Specify the average Words per minute. If not defined, 180 will be used
-wpm:				      180
-# Turn on or off the fin animations in the header and footer
-triangleheader:		true
-animated_fins:	  false # I'm not sure about either of these options. Maybe I just need a better bg image. Actually, I know I need that
-# Specify the fin color in RGB value
-fin_color:        "255,255,255"
-# Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
-# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:              http://justadd.coffee
+# Site
+title: Just Add Coffee
+description: Smol Website Folio
+url: http://127.0.0.1:4000 #
+logo: halve.png                                       # Site logo
+locale: en_US
 
-# Owner/author information
-owner:
-  name:           Derek Prince
-  avatar:         derek-prince.jpg
-  email:          # holler@justadd.coffee # <- set this up.
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    I try not to underestimate the importance of consistency. For this very reason I try to keep a steady stream of coffee flowing at all times.
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        PrinceAetas
-  facebook:       # maybe.
-  github:         aetas
-  stackexchange:  # eh?
-  linkedin:       # burn in hell, linkedin
-  instagram:      princeaetas
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    # maybe later. https://plus.google.com/u/0/102602916593522619858
+# future: true
+sharing: false
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Left Block Images
+background:
+  homepage: images/home.png                           # this image will be shown on homepage's left block
+  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
+  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
-# Links to include in footer navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-    external: false
-    icon: home
-  - title: Categories
-    url: /categories
-  - title: Tags
-    url: /tags
-  - title: Who dis?
-    url: /about
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Denver
-future:      true
-highlighter: pygments
-markdown:    kramdown
-paginate:    6
-paginate_path: "page:num"
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   none # /:categories/:title.html <-- these should be equivalent
-
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge # pygments is what I used previously
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+sass:
+  sass_dir:         assets/_sass
+  style:            compressed
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# Google Analytics
+#google-analytics: UA-XXXXX-Y
 
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://justadd.coffee'
-  relativeLinks: 'http://justadd.coffee/links.jsonp'
-  media: 'images'
-  metadata:
-    _posts:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "layout"
-        field:
-          element: "hidden"
-          label: "Layout"
-          value: "post"
-      - name: "type"
-        field:
-          element: "select"
-          label: "Select Post Type"
-          placeholder: "Choose your type"
-          options:
-            - name: "Standard"
-              value:
-            - name: "Quote"
-              value: quote
-            - name: "Status"
-              value: status
-            - name: "Photo"
-              value: photo
-            - name: "Video"
-              value: video
-      - name: "title"
-        field:
-          label: "Title"
-          element: "text"
-          value: "An Awesome Headline!"
-      - name: "description"
-        field:
-          element: "text"
-          label: "Description"
-          placeholder: "Enter Post Description"
-      - name: "headline"
-        field:
-          element: "text"
-          label: "beadline"
-          placeholder: "Enter Post Headline"
-      - name: "modified"
-        field:
-          element: "text"
-          label: "Has this page been modified?"
-          placeholder: "YYYY-MM-DD"
-      - name: "categories"
-        field:
-          element: "multiselect"
-          label: "Add categories"
-          placeholder: "Choose categories"
-          value: personal
-          options:
-            - name: "Personal"
-              value: personal
-            - name: "Web-Development"
-              value: webdevelopment
-            - name: "Interesting"
-              value: interesting
-            - name: "Status"
-              value: status
-            - name: "Quotes"
-              value: quotes
-          alterable: true
-      - name: "tags"
-        field:
-          element: "text"
-          label: "Tags"
-          placeholder: "Enter tags, separated by spaces"
-      - name: "imagefeature"
-        field:
-          element: "text"
-          label: "Featured Image"
-          placeholder: "somefile.jpg"
-      - name: "imagecredit"
-        field:
-          element: "text"
-          label: "Image Credit"
-          placeholder: "some guy"
-      - name: "imagecreditlink"
-        field:
-          element: "text"
-          label: "Credit link for the image"
-          placeholder: "http://somewebsite.com"
-      - name: "video"
-        field:
-          element: "text"
-          label: "Insert Youtube Link"
-          placeholder: "http://youtube.com/somevideo"
-      - name: "mathjax"
-        field:
-          element: "checkbox"
-          label: "MathJax"
-          value: false
-      - name: "featured"
-        field:
-          element: "checkbox"
-          label: "Featured?"
-          value: false
-      - name: "comments"
-        field:
-          element: "checkbox"
-          label: "Comments"
-          value: false
+# Social Links
+#email:             email
+#google.plus:       username
+#twitter:           username
+#facebook:          username
+github:             DTPrince
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+#instagram:          username
+#lastfm:            username
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:             username
+#dribbble:          username
+#youtube:           username
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+#behance:           username
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+# Gems
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+# Exclude list
+include: [_pages, _posts]
+exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
