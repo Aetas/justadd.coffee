@@ -1,10 +1,10 @@
 - title: Power Supplies
-  url: http://127.0.0.1:4000/PSUs
+  url: PSUs
   image: http://127.0.0.1:4000/images/psu/variable_PSU_brd.PNG
   completed: true
 
 - title: Freshman Projects Clock
-  url: http://127.0.0.1:4000/freshman-projects-clock
+  url: freshman-projects-clock
   image: http://127.0.0.1:4000/images/freshman_projects_clock/front_plate.jpg
   completed: true
 
