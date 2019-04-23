@@ -23,6 +23,7 @@
 - FPGA Class stuff
 - High Speed DD class stuff.
 - Serpentine surfers?
+- Machine learning class (project)
 
 ### JS script
 
