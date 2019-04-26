@@ -1,3 +1,8 @@
+- title: Translation Board
+  url: microcontroller-conversion-board
+  image: images/sd_mcu_translate_pcb/dev_shield_sch.PNG
+  completed: true
+
 - title: Sensor Boards
   url: sensor-boards
   image: images/sd_sensor_pcbs/Hall_Effect_brd.PNG

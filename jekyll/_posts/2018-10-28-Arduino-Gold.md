@@ -2,7 +2,7 @@
 layout: post
 title:  "Arduino Gold"
 date:   2018-10-28
-excerpt: "PCBs designed for Senior Design to support sensors"
+excerpt: "Arduino board designed for signal integrity"
 # image: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
 
 categories:
