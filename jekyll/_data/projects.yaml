@@ -1,3 +1,8 @@
+- title: Sensor Boards
+  url: sensor-boards
+  image: images/sd_sensor_pcbs/Hall_Effect_brd.PNG
+  completed: true
+
 - title: Power Supplies
   url: PSUs
   image: http://127.0.0.1:4000/images/psu/variable_PSU_brd.PNG

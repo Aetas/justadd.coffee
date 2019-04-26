@@ -13,8 +13,6 @@
 - Senior Design MCU board
 - Senior Design Conversion board
 - Senior Design Stepper Socket board
-- 5Vdc PSU (v brief)
-- Hall-effect board / Pressure sensor Board
 - Ground Bounce example Board
 - Binary counter replacement chip
 - FPGA guessing game
