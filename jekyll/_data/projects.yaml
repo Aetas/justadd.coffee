@@ -1,3 +1,8 @@
+- title: Stepper Motor Driver PCB
+  url: stepper-driver-board
+  image: images/sd_driver_pcb/progression.jpg
+  completed: true
+
 - title: Translation Board
   url: microcontroller-conversion-board
   image: images/sd_mcu_translate_pcb/dev_shield_sch.PNG
@@ -10,12 +15,12 @@
 
 - title: Power Supplies
   url: PSUs
-  image: http://127.0.0.1:4000/images/psu/variable_PSU_brd.PNG
+  image: /images/psu/variable_PSU_brd.PNG
   completed: true
 
 - title: Freshman Projects Clock
   url: freshman-projects-clock
-  image: http://127.0.0.1:4000/images/freshman_projects_clock/front_plate.jpg
+  image: /images/freshman_projects_clock/front_plate.jpg
   completed: true
 
 - title: Moon Jekyll Theme
